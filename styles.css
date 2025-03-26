@@ -96,7 +96,74 @@ a{
     display: flex;
 }
 .partners p{
+    text-align: center;
+    color: rgb(24, 24, 71);
 
+}
+.partners_icons{
+  gap: 10%;
+  margin-left: 12%;
+}
+#microsoft{
+    width: 12%;
+
+}
+#trello{
+    width:12% ;
+    margin-left: 6%;
+}
+#google{
+    width: 12%;
+    margin-left: 6%;
+}
+#dropbox{
+    width: 12%;
+    margin-left: 6%;
+}
+#slack{
+    width: 12%;
+    margin-left: 6%;
+}
+.product{
+    border: solid 1px;
+    background-color: rgb(241, 241, 252);
+}
+.product_how{
+    margin: 3%;
+    gap: 5%;
+
+}
+.productes{
+    display: flex;
+    gap: 16%;
+    margin: 10%;
+    
+}
+.easy_interface{
+    border: solid 1px;
+    background-color: white;
+    border-radius: 10%;
+}
+.fa-star{
+    margin-left: 43%;
+    margin-top: 12%;
+    background-color: pink;
+    width: 12%;
+    
+}
+.transfers{
+    border: solid 1px;
+    background-color: white;
+    border-radius: 10%;
+
+}
+#slides{
+    width: 40px;
+} 
+.support_time{
+    border: solid 1px;
+    background-color: white;
+    border-radius: 10%;
 }
 .download{
     margin-left: 5%;
