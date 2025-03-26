@@ -1,0 +1,159 @@
+.container{
+  
+
+}
+.improve{
+    border: solid 1px;
+   
+}
+
+.improve p{
+    font-size: 12px;
+
+}
+.top_part{
+    display: flex;
+    gap: 2%;
+    
+}
+.login{
+    width:fit-content
+}
+@font-face {
+    font-family: poppins;
+    src: url(fonts/Poppins-Regular.ttf);
+}
+.options{
+    display: flex;
+    gap: 5%;
+    margin-left: 10%;
+   
+}
+.options li{
+    list-style: none;
+    display: inline;
+    gap: 7%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.rightside h1{
+    color: rgb(24, 24, 71);
+}
+.rightside p{
+    color: rgb(24, 24, 71);
+}
+.you_charge{
+    text-decoration: underline;
+    color: red;
+}
+#contact_us{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.apps_download{
+    display: flex;
+    gap: 3%;
+}
+.app_store{
+    border: solid 1px;
+    width: 8%;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(54, 54, 70);
+    border-radius: 8%;
+}
+
+.playstore{
+    border: solid 1px;
+    width: 8%;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8%;
+}
+
+.playstorelogo{
+    width: 10%;
+      
+}
+.leftside{
+    border: solid 1px;
+
+}
+.customer_card{
+    border: solid 1px;
+}
+#customer_image{
+    width:55px;
+    height: 55px;
+    border-radius: 50%;
+}
+.partners{
+    display: flex;
+}
+.partners p{
+
+}
+.download{
+    margin-left: 5%;
+    display: flex;
+    gap: 40%;
+}
+.lastimage{
+    width:160%;
+}
+.apps_downloadlast{
+    display: flex;
+    gap: 3%;
+}
+.app_storelast{
+    border: solid 1px;
+    width: 20%;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: rgb(54, 54, 70);
+    border-radius: 8%;
+}
+
+.playstorelast{
+    border: solid 1px;
+    width: 8%;
+    height: 2px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8%;
+}
+
+.playstorelogolast{
+    width: 20%;
+    
+   
+}
+.foot{
+    background-color: rgb(31, 31, 46);
+    color: white;
+    display: flex;
+    gap: 10%;
+}
+.platforms{
+    margin-left: 18px;
+
+}
+.icons{
+    gap: 5%;
+}
+.lists{
+    list-style: none;
+}
+.terms{
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 50%;
+}
