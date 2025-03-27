@@ -1,6 +1,17 @@
 .container{
 
 }
+
+#ditio_logo{
+    width: 1%;
+    height: 1%;
+    margin-left: 1%;
+    margin-top: 1%;
+    padding-left: 1%
+}
+.top_part p{
+    margin-right: 1%;
+}
 .rightside h1{
     color: rgb(24, 24, 71);
 }
@@ -38,14 +49,14 @@
 }
 .options{
     display: flex;
-    gap: 5%;
+    gap: 7%;
     margin-left: 10%;
    
 }
 .options li{
     list-style: none;
     display: inline;
-    gap: 7%;
+  
 }
 a{
     text-decoration: none;
@@ -263,6 +274,7 @@ a{
     margin-bottom:10px ;
     color: white;
     background-color: rgb(66, 66, 122);
+    border-radius: 10%;
    
 
 }
