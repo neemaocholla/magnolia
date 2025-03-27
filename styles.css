@@ -125,9 +125,35 @@ a{
 #slack{
     width: 12%;
 }
+#ditio_numbers{
+    text-decoration: underline;
+    color: red;
+
+}
+.stats{
+    display: flex;
+    gap: 12%;
+}
+.create_account{
+    border: solid 1px;
+    width: 21%;
+    
+}
+#cube{
+    width: 5%;
+}
+#imageknow{
+    width: 51%;
+    margin-right: 2%;
+}
 .product{
     border: solid 1px;
     background-color: rgb(241, 241, 252);
+}
+#product{
+    text-decoration: underline;
+    color: red;
+    text-align: center;
 }
 .product_how{
     margin: 3%;
@@ -166,13 +192,20 @@ a{
     background-color: white;
     border-radius: 10%;
 }
+.some_words{
+    text-align: center;
+}
+#some_words{
+    text-decoration: underline;
+    color: red;
+}
 .clients{
     display: flex;
     border: solid 1px;
     gap: 5%;
     width: 70%;
     margin-left: 12%;
-    padding: %;
+    background-color: rgb(230, 237, 252);
     
     
 }
@@ -182,6 +215,7 @@ a{
     border: solid 1px;
     border-radius: 5%;
     margin-left: 12%;
+    background-color: white;
 }
 #edwin{
     width: 18%;
@@ -194,6 +228,7 @@ a{
     border: solid 1px;
     border-radius: 5%;
     margin-left: 12%;
+    background-color: white;
 }
 #jackson{
     width: 25%;
